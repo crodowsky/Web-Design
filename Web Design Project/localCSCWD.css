@@ -1,0 +1,46 @@
+body { background-color: #B5D7EB ; }
+
+body.left { text-align: left; }
+
+body.back { 
+background:url('orchids.jpg') no-repeat ;
+background-size: cover ;
+}
+
+h1 {
+	font-size: 300% ;
+	text-align: center ;
+	background-color: #D1ECD1 ;
+	border: 2px #0D9A0D ;
+	}
+h2 {
+	font-family: 'Playball', cursive;
+	text-align: center ;
+}
+nav {
+	font-family: 'Junge', serif; font-size: 24px ;
+	text-align: Center ;
+}
+nav ul li {
+	display:inline-block;
+	}
+nav a {
+	color:Black;
+	background-color:#a73379;
+	}
+nav a:hover {
+	color:#1047A9
+	}
+nav a.cur {
+	background-color:lightgrey;
+	}
+table,th, td { 	
+border: 2px solid black ;
+Margin-left: auto ;
+margin-right: auto ;
+}
+
+form {
+text-align: center ;
+}
+ 
